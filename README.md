@@ -64,5 +64,3 @@ Atualmente, meu foco é evoluir na programação e no desenvolvimento de sistema
 
 > 🚀 **Não sei tudo ainda, mas já sei o suficiente para quebrar tudo no código de várias maneiras diferentes.**
 
-  Feito por <strong>Ferreira</strong> 💻
-</p>
